@@ -1,1 +1,4 @@
-Ejercicio "Validador de Correlatividades"
+
+# Validador de Correlatividades
+
+Resolución del ejercicio "Validador de Correlatividades".
